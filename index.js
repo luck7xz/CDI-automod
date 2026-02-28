@@ -27,7 +27,7 @@ const client = new Client({
   ]
 });
 
-const DONO_ID = '1280969207042801755','1372389669639028811','1457424883645550815;'
+const DONO_ID = '1280969207042801755';'
 const PREFIX = '.';
 
 // admins por guild: guildId -> Set de userIds
